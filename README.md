@@ -2,11 +2,16 @@
 ChatGPT学习指南，分享各种ChatGPT学习资料，以及如何更好的使用ChatGPT。
 
 ## 自己搭建ChatGPT网站
-参考项目: ChatGPT-Web https://github.com/Chanzhaoyu/chatgpt-web
-参考项目: chatgpt PHP https://github.com/dirk1983/chatgpt PHP调用OpenAI的API接口，目前支持调用最新的gpt-3.5-turbo模型。采用Stream流模式通信，一边生成一边输出，响应速度超过官网。前端方面，采用JS EventSource，Markdown格式文本进行排版，同时对代码进行了着色处理。
-参考项目: OpenAI API Quickstart https://github.com/openai/openai-quickstart-node
-参考项目: ChatGPT Mirror https://github.com/yuezk/chatgpt-mirror
-参考项目：ChatGPT-WEB https://github.com/mic1on/chatGPT-web
+- 参考项目: ChatGPT-Web 
+  - 网址 https://github.com/Chanzhaoyu/chatgpt-web
+- 参考项目: chatgpt PHP 
+  - 网址 https://github.com/dirk1983/chatgpt
+- 参考项目: OpenAI API Quickstart 
+  - 网址 https://github.com/openai/openai-quickstart-node
+- 参考项目: ChatGPT Mirror 
+  - 网址 https://github.com/yuezk/chatgpt-mirror
+- 参考项目：ChatGPT-WEB 
+  - 网址 https://github.com/mic1on/chatGPT-web
 
 ## 几个ChatGPT免费的网站
 - ChatGPT中文网
